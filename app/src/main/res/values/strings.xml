@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FutSports</string>
+    <string name="acessibility_logo">Logo da empresa</string>
+    <string name="acessibility_client">Icone Sobre nós</string>
+    <string name="acessibility_contact">Icone Contatos</string>
+    <string name="acessibility_services">Icone Serviços</string>
+    <string name="client_details">Sobre nós</string>
+
+    --clients --
+    <string name="appbar_client">Clientes</string>
+    <string name="acessibility_client1">Sysadmin é um grande cliente.</string>
+    <string name="acessibility_client2">Rsm é um grande cliente.</string>
+    <string name="client2">Nós da FutSports oferecemos a todos a oportunidade de jogarem nos campos de futebol, e quadras para futsal, apenas sob agendamento.  </string>
+
+    --contacts--
+    <string name="appbar_contact">Contatos</string>
+
+    <!--services-->
+    <string name="appbar_services">Serviços</string>
+    <string name="accessibility_details_services">Imagem para detalhe dos serviços</string>
+    <string name="services_title">Agendamento</string>
+    <string name="hint_name">Insira seu nome</string>
+    <string name="name_field">Nome</string>
+    <string name="hint_email">Insira seu email de contato</string>
+    <string name="email_field">Email</string>
+    <string name="accessibility_name">Campo de texto para informar seu nome para identificação</string>
+    <string name="accessibility_email">Campo de texto para informar seu email para que entre-mos contato</string>
+    <string-array name="spinner_options">
+        <item>Selecione o local do Fut</item>
+        <item>Campo 1</item>
+        <item>Campo 2</item>
+        <item>Quadra 1</item>
+        <item>Quadra 2</item>
+    </string-array>
+    <string name="hint_obs">Objetivo de contato.</string>
+    <string name="accessibility_obs">Campo de texto para informar seu objetivo de contato.</string>
+    <string name="btn_enviar">Enviar dados</string>
+
+
+</resources>
